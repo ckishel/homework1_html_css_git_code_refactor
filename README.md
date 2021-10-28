@@ -32,4 +32,4 @@ The following image shows the web application's appearance and functionality:
 
 This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
 
-URL: https://ckishel.github.io/homework1/
+URL: https://ckishel.github.io/homework1_html_css_git_code_refactor/
